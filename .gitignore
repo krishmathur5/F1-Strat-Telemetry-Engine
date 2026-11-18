@@ -18,3 +18,9 @@ data/processed/*.csv
 
 # Environment variables and credentials
 .env
+.env.*
+
+# IDE and operating system files
+.vscode/
+.DS_Store
+Thumbs.db
