@@ -1,0 +1,20 @@
+
+# Python virtual environment
+.venv/
+
+# Python cache
+__pycache__/
+*.py[cod]
+
+# Jupyter checkpoints
+.ipynb_checkpoints/
+
+# FastF1 cache
+data/cache/
+
+# Downloaded datasets
+data/raw/*.csv
+data/processed/*.csv
+
+# Environment variables and credentials
+.env
