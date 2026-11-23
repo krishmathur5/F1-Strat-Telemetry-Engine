@@ -1,0 +1,10 @@
+LapNumber,original_records,valid_racing_records,slick_records,intermediate_records,pit_transition_records,deleted_records,slick_unique_drivers,intermediate_unique_drivers
+18,19,19,19,0,0,0,19,0
+19,19,13,13,0,4,2,13,0
+20,19,14,14,0,4,1,14,0
+25,19,19,16,3,0,0,16,3
+26,19,11,9,2,8,0,9,2
+27,19,2,1,1,17,0,1,1
+28,19,7,0,7,11,1,0,7
+29,19,17,0,17,2,0,0,17
+30,19,19,0,19,0,0,0,19

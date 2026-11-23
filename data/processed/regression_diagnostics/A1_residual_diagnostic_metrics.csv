@@ -1,0 +1,2 @@
+sample_count,parameter_count,residual_mean,residual_std,residual_skewness,residual_excess_kurtosis,shapiro_statistic,shapiro_p_value,breusch_pagan_lm,breusch_pagan_lm_p,breusch_pagan_f,breusch_pagan_f_p,cooks_distance_threshold,influential_observations,maximum_cooks_distance
+658,26,8.379652932368355e-13,2.0956251654700884,2.5656863546555013,11.198808953471762,0.7532000152955448,3.451600233372832e-30,115.97727565966122,1.1268832270221818e-13,5.409193004305254,3.218824464237713e-15,0.0060790273556231,31,0.07863994629292113
