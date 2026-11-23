@@ -1,0 +1,82 @@
+race_phase,Driver,dry_observations,wet_observations,has_both_conditions
+Pre-transition,ALB,16,0,False
+Pre-transition,ALO,16,0,False
+Pre-transition,BOT,16,0,False
+Pre-transition,HAM,16,0,False
+Pre-transition,HUL,16,0,False
+Pre-transition,LEC,16,0,False
+Pre-transition,MAG,16,0,False
+Pre-transition,NOR,16,0,False
+Pre-transition,OCO,16,0,False
+Pre-transition,PER,16,0,False
+Pre-transition,PIA,16,0,False
+Pre-transition,RIC,16,0,False
+Pre-transition,RUS,16,0,False
+Pre-transition,SAI,16,0,False
+Pre-transition,SAR,15,0,False
+Pre-transition,STR,16,0,False
+Pre-transition,TSU,16,0,False
+Pre-transition,VER,16,0,False
+Pre-transition,ZHO,13,1,True
+Initial wet transition,ALB,0,3,False
+Initial wet transition,ALO,0,3,False
+Initial wet transition,BOT,0,3,False
+Initial wet transition,HAM,0,2,False
+Initial wet transition,HUL,0,3,False
+Initial wet transition,LEC,0,1,False
+Initial wet transition,MAG,0,3,False
+Initial wet transition,NOR,0,2,False
+Initial wet transition,OCO,0,1,False
+Initial wet transition,PER,0,1,False
+Initial wet transition,PIA,0,3,False
+Initial wet transition,RIC,0,3,False
+Initial wet transition,RUS,0,2,False
+Initial wet transition,SAI,0,3,False
+Initial wet transition,SAR,0,3,False
+Initial wet transition,STR,0,3,False
+Initial wet transition,TSU,0,3,False
+Initial wet transition,VER,0,3,False
+Initial wet transition,ZHO,0,1,False
+Wet running,ALB,0,5,False
+Wet running,ALO,0,5,False
+Wet running,BOT,0,5,False
+Wet running,HAM,0,5,False
+Wet running,HUL,0,5,False
+Wet running,MAG,0,5,False
+Wet running,NOR,0,5,False
+Wet running,OCO,0,3,False
+Wet running,PIA,0,5,False
+Wet running,RIC,0,5,False
+Wet running,RUS,0,5,False
+Wet running,SAI,0,5,False
+Wet running,SAR,0,5,False
+Wet running,STR,0,5,False
+Wet running,TSU,0,5,False
+Wet running,VER,0,5,False
+Late wet / pit phase,ALB,0,1,False
+Late wet / pit phase,ALO,0,1,False
+Late wet / pit phase,HAM,0,1,False
+Late wet / pit phase,MAG,0,1,False
+Late wet / pit phase,NOR,0,1,False
+Late wet / pit phase,PIA,0,2,False
+Late wet / pit phase,RUS,0,1,False
+Late wet / pit phase,SAR,0,1,False
+Late wet / pit phase,TSU,0,1,False
+Post-transition running,ALB,12,1,True
+Post-transition running,ALO,12,1,True
+Post-transition running,BOT,12,1,True
+Post-transition running,HAM,11,2,True
+Post-transition running,HUL,11,1,True
+Post-transition running,LEC,12,1,True
+Post-transition running,MAG,12,2,True
+Post-transition running,NOR,10,2,True
+Post-transition running,OCO,9,2,True
+Post-transition running,PER,9,1,True
+Post-transition running,PIA,12,1,True
+Post-transition running,RIC,11,2,True
+Post-transition running,SAI,9,1,True
+Post-transition running,SAR,11,2,True
+Post-transition running,STR,11,1,True
+Post-transition running,TSU,12,1,True
+Post-transition running,VER,11,2,True
+Post-transition running,ZHO,11,1,True

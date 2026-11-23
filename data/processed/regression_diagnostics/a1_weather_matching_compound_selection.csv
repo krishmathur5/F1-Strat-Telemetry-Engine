@@ -1,0 +1,16 @@
+method,match_status,compound,observations
+nearest,Matched,MEDIUM,461
+nearest,Matched,SOFT,158
+nearest,Matched,HARD,39
+backward,Unmatched,MEDIUM,118
+backward,Unmatched,SOFT,45
+backward,Unmatched,HARD,16
+backward,Matched,MEDIUM,343
+backward,Matched,SOFT,113
+backward,Matched,HARD,23
+forward,Unmatched,MEDIUM,114
+forward,Unmatched,SOFT,36
+forward,Unmatched,HARD,5
+forward,Matched,MEDIUM,347
+forward,Matched,SOFT,122
+forward,Matched,HARD,34

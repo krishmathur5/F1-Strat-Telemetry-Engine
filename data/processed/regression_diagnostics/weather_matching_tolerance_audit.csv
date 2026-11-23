@@ -1,0 +1,7 @@
+tolerance_seconds,matched_observations,unmatched_observations,coverage_percent
+15,334,324,50.75987841945289
+30,658,0,100.0
+45,658,0,100.0
+60,658,0,100.0
+75,658,0,100.0
+90,658,0,100.0

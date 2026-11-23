@@ -1,0 +1,7 @@
+Population,Method,Total laps,Matched laps,Unmatched laps,Match percentage,Wet laps,Dry laps,Mean match difference seconds
+All laps,nearest,960,960,0,100.0,411,549,14.615394270833312
+All laps,backward,960,702,258,73.125,308,394,21.948331196581208
+All laps,forward,960,720,240,75.0,305,415,22.149639583333315
+Laps 42-45,nearest,72,72,0,100.0,25,47,15.083277777777804
+Laps 42-45,backward,72,48,24,66.66666666666666,14,34,24.291291666666723
+Laps 42-45,forward,72,60,12,83.33333333333334,22,38,21.11267499999996
